@@ -1,4 +1,4 @@
-# CNN-early-detection
+# How to deploy this model in html webpage
 To deploy your trained CNN model perform the following steps:
 1- Move the run_server.py into your current working folder.
 2- Move the already-trained model into your current working folder.
